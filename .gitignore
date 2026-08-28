@@ -1,6 +1,7 @@
 venv/
 env/
 .venv/
+django_MY_SITE/
 
 __pycache__/
 *.py[cod]
@@ -10,3 +11,10 @@ db.sqlite3
 .env
 
 .vscode/
+
+staticfiles/
+media/
+uploads/
+
+*.zip
+*.zip.zip
